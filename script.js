@@ -1,5 +1,5 @@
-const a = parseInt(prompt("a = ",));
-const b = parseInt(prompt("b = ",));
+const a = parseFloat(prompt("a = ",));
+const b = parseFloat(prompt("b = ",));
 function sum(a, b) {
     return a + b;
 }
